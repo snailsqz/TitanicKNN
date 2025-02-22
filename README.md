@@ -1,6 +1,7 @@
 # TitanicKNN
 <pre>
-Hello, I use the K-Nearest Neighbors algorithm to predict whether a passenger survived the Titanic disaster based on various features such as age, sex, class, and embarkation location.
+Hello, I use the K-Nearest Neighbors algorithm to predict whether a passenger survived the Titanic disaster 
+based on various features such as age, sex, class, and embarkation location.
 Here is the matrix confusion down below :)
 
 Train data accuracy: 0.8218298555377207
